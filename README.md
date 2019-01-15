@@ -8,5 +8,5 @@ Requirements :
 
 
 
-This git is inspired from a medium article : https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
-The code snippets in the tuitorial is arranged fro learning purpose.
+This work is inspired from a medium article. Idea is to learn and implement an ANN from scratch.This is a good tuitorial for beginners.
+Hope this helps you!
